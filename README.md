@@ -1,0 +1,13 @@
+# Roadmap
+- [ ] Weapons
+	- [ ] Melee
+		- [ ] Battle Axe
+		- [ ] Claymore
+	- [ ] Ranged
+  	- [ ] Musket
+  	- [ ] Crossbow
+  	- [ ] Flint Lock
+		- [ ] Long Bow
+- [ ] Magic
+	- [ ] sdfg
+	- [ ] sdfg
