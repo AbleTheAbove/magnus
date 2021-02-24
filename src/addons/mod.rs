@@ -24,7 +24,7 @@ pub fn run_addon_temp() {
         register_decoration::<ImmutableString>,
     );
 
-    let result = engine.eval_file::<()>("addons/hello_world.ma".into());
+    let result = engine.eval_file::<()>("addons/hello_world.mao".into());
     //println!("{:?}", result);
     match result {
         Err(e) => {
