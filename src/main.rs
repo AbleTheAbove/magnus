@@ -162,8 +162,8 @@ impl State {
 fn main() -> rltk::BError {
     addons::run_addon_temp();
 
-    let bytes = include_bytes!("assets/beep.wav");
-    beep::beep();
+//    let bytes = include_bytes!("assets/beep.wav");
+//    beep::beep();
     use rltk::RltkBuilder;
     let context = RltkBuilder::simple80x50() // 50 x 50 map view
         .with_title("Magnus: A Battle of Chaos and Order")
